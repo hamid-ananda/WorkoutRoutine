@@ -1,0 +1,11 @@
+{
+  "name": "workoutroutine",
+  "version": "1.0.0",
+  "description": "All course files for the MERN Stack Tutorial course on the Net Ninja YouTube channel &amp; the Net Ninja Pro website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
